@@ -23,7 +23,7 @@ I generally run the application through the WebStorm IDE, but it can run through
 1. **Clone the repository**:
 
    ```bash
-   https://github.com/suciubogdansb/CakeTrackerFrontend.git
+   git clone https://github.com/suciubogdansb/CakeTrackerFrontend.git
    cd CakeTrackerFrontend
    ```
 

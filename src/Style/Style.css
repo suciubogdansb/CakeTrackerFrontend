@@ -1,0 +1,78 @@
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px;
+    cursor: pointer;
+    max-width: fit-content;
+    font-weight: bold;
+}
+
+.MainPage {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: center;
+}
+
+.table th {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    text-align: center;
+}
+
+.table {
+    margin: 2px;
+}
+
+.table td {
+    padding: 6px;
+    border: none;
+    text-align: center;
+    font-size: .8rem;
+}
+
+.AddForm {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: center;
+}
+
+.FormGroup {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 10px;
+    align-items: center;
+}
+
+.FormGroup label{
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+.FormGroup input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.Error {
+    color: red;
+    font-size: .8rem;
+    margin: 5px 0;
+}
+
+.MemberList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+}
